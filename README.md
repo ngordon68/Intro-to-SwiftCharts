@@ -1,5 +1,5 @@
 
-# Getting Started with Xcode and SwiftUI
+# Getting Started with SwiftCharts
 
 [Swift Chart Conference Slides](https://docs.google.com/presentation/d/1LGkjZa4aKqXasEaKGJzSvfrTcwMkS9Tj1DljkrkTkAk/edit#slide=id.g7e92ecccc8_1_36)
 
